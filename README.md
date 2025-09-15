@@ -29,6 +29,8 @@ I followed these steps for the project:
 **Dataset**
 I used a dataset containing student information, including CGPA, IQ, and placement status.
 
+Dataset: https://drive.google.com/file/d/1wg_mT1vQqMsmgHpf6EklO565QS7RpZ9D/view?usp=sharing
+
 **Results**
 My trained logistic regression model achieved an accuracy of [Insert Accuracy Score Here] on the test set. The decision boundary visualization shows how my model distinguishes between placed and not placed students based on their CGPA and IQ.
 
